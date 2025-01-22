@@ -1,0 +1,1 @@
+# VADER-dan-Lexicon-naivebayes-ppn12-
